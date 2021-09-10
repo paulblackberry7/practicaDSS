@@ -167,7 +167,7 @@ void menuAdmin(){
 	gotoXY(12, 12);
     cout<<"Press  4 ----> Quit";
 	gotoXY(12, 14);
-    cout<<"Select Your Option ====> ";
+    cout<<"Select Your Option ===> ";
 };
 
 void menu(){
@@ -179,7 +179,7 @@ void menu(){
 	gotoXY(12, 8);
     cout<<"Press  2 ----> Quit";
 	gotoXY(12, 10);
-    cout<<"Select Your Option ====> ";
+    cout<<"Select Your Option ===> ";
 };
 /**/
 
