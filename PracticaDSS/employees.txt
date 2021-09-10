@@ -1,0 +1,2 @@
+Marta	1	Manager	14	40	24000.000000
+Sara	2	Sales_Manager	13	45	10000.000000
